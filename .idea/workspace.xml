@@ -67,7 +67,7 @@
       <workItem from="1590071498517" duration="6389000" />
       <workItem from="1590381579071" duration="502000" />
       <workItem from="1591344214185" duration="253000" />
-      <workItem from="1591344479627" duration="60000" />
+      <workItem from="1591344479627" duration="1149000" />
     </task>
     <servers />
   </component>
@@ -89,6 +89,10 @@
     </state>
     <state x="911" y="-1525" key="FileChooserDialogImpl/0.0.1536.824/-347.-2160.2560.1400@-347.-2160.2560.1400" timestamp="1590080018285" />
     <state x="1258" y="635" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591344305126" />
+    <state x="652" y="538" key="Github.ShareDialog" timestamp="1591344754780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="652" y="538" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591344754780" />
     <state width="1668" height="239" key="GridCell.Tab.0.bottom" timestamp="1590079335986">
       <screen x="-347" y="-2160" width="2560" height="1400" />
     </state>
